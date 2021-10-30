@@ -1,5 +1,7 @@
 # Kubernetes Ingress
 This code creates a deployment and service for the image: yanivomc/spring-music:latest in kubernetes.
+
+(Ingress is an object that allows access to your Kubernetes services from outside the Kubernetes cluster)
 __________________________________________
 
 ### Deployment for the image: yanivomc/spring-music:latest :
